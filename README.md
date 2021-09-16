@@ -14,7 +14,7 @@ email = "alejandroferllub @ gmail.com"
 jobless = true      //:,)
 study = "software development"
 student = true
-work_experience = None
+work_experience = ""
 
 learning = [
   'web front-end',
