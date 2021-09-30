@@ -13,11 +13,12 @@ email = "alejandroferllub @ gmail.com"
 //professional
 jobless = true      //:,)
 study = "software development"
-student = true
+institute = "Istituto Tegnologico de las Americas (ITLA)"
 work_experience = ""
 
 learning = [
   'web front-end',
+  'software development'
 ]
 
 programming-languages = [
