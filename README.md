@@ -26,9 +26,9 @@ programming-languages = [
   'python',
   'c#',
   'java',
+  'html5',
   'css',
   'javascript',
-  'html5' //xd
 ]
 
 ```
