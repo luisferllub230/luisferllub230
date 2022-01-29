@@ -8,8 +8,7 @@ Here's my `BIO`:
 
 - 📫 How to reach me **alejandroferllub@gmail.com**
 
-- 📄 Know about my experiences [I am not working at the moment, but I am trying to generate a project to learn and improve my skills](I am not working at the moment, but I am trying to generate a project to learn and improve my skills)
-
+- 📄 Know about my experiences [I am not working at the moment, but I am trying to generate a project to learn and improve my skills]
 ```toml
 
 //personal
